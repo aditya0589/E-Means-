@@ -1,0 +1,15 @@
+name,type,n_samples,n_features,n_clusters,raw_file,processed_file
+iris,real_world,150,4,3,data/raw/iris.csv,data/processed/iris_standardized.csv
+wine,real_world,178,13,3,data/raw/wine.csv,data/processed/wine_standardized.csv
+breast_cancer,real_world,569,30,2,data/raw/breast_cancer.csv,data/processed/breast_cancer_standardized.csv
+digits,real_world,1797,64,10,data/raw/digits.csv,data/processed/digits_standardized.csv
+blobs_1000,synthetic,1000,2,4,data/raw/blobs_1000.csv,data/processed/blobs_1000_standardized.csv
+anisotropic_1000,synthetic,1000,2,3,data/raw/anisotropic_1000.csv,data/processed/anisotropic_1000_standardized.csv
+moons_1000,synthetic,1000,2,2,data/raw/moons_1000.csv,data/processed/moons_1000_standardized.csv
+circles_1000,synthetic,1000,2,2,data/raw/circles_1000.csv,data/processed/circles_1000_standardized.csv
+noisy_1000,synthetic,1000,2,4,data/raw/noisy_1000.csv,data/processed/noisy_1000_standardized.csv
+high_dim_50d_5000,synthetic,5000,50,5,data/raw/high_dim_50d_5000.csv,data/processed/high_dim_50d_5000_standardized.csv
+blobs_500,synthetic,500,10,5,data/raw/blobs_500.csv,data/processed/blobs_500_standardized.csv
+blobs_5000,synthetic,5000,10,5,data/raw/blobs_5000.csv,data/processed/blobs_5000_standardized.csv
+blobs_10000,synthetic,10000,10,5,data/raw/blobs_10000.csv,data/processed/blobs_10000_standardized.csv
+blobs_50000,synthetic,50000,10,5,data/raw/blobs_50000.csv,data/processed/blobs_50000_standardized.csv

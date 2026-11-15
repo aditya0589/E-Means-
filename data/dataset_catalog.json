@@ -1,0 +1,128 @@
+[
+  {
+    "name": "iris",
+    "type": "real_world",
+    "n_samples": 150,
+    "n_features": 4,
+    "n_clusters": 3,
+    "raw_file": "data/raw/iris.csv",
+    "processed_file": "data/processed/iris_standardized.csv"
+  },
+  {
+    "name": "wine",
+    "type": "real_world",
+    "n_samples": 178,
+    "n_features": 13,
+    "n_clusters": 3,
+    "raw_file": "data/raw/wine.csv",
+    "processed_file": "data/processed/wine_standardized.csv"
+  },
+  {
+    "name": "breast_cancer",
+    "type": "real_world",
+    "n_samples": 569,
+    "n_features": 30,
+    "n_clusters": 2,
+    "raw_file": "data/raw/breast_cancer.csv",
+    "processed_file": "data/processed/breast_cancer_standardized.csv"
+  },
+  {
+    "name": "digits",
+    "type": "real_world",
+    "n_samples": 1797,
+    "n_features": 64,
+    "n_clusters": 10,
+    "raw_file": "data/raw/digits.csv",
+    "processed_file": "data/processed/digits_standardized.csv"
+  },
+  {
+    "name": "blobs_1000",
+    "type": "synthetic",
+    "n_samples": 1000,
+    "n_features": 2,
+    "n_clusters": 4,
+    "raw_file": "data/raw/blobs_1000.csv",
+    "processed_file": "data/processed/blobs_1000_standardized.csv"
+  },
+  {
+    "name": "anisotropic_1000",
+    "type": "synthetic",
+    "n_samples": 1000,
+    "n_features": 2,
+    "n_clusters": 3,
+    "raw_file": "data/raw/anisotropic_1000.csv",
+    "processed_file": "data/processed/anisotropic_1000_standardized.csv"
+  },
+  {
+    "name": "moons_1000",
+    "type": "synthetic",
+    "n_samples": 1000,
+    "n_features": 2,
+    "n_clusters": 2,
+    "raw_file": "data/raw/moons_1000.csv",
+    "processed_file": "data/processed/moons_1000_standardized.csv"
+  },
+  {
+    "name": "circles_1000",
+    "type": "synthetic",
+    "n_samples": 1000,
+    "n_features": 2,
+    "n_clusters": 2,
+    "raw_file": "data/raw/circles_1000.csv",
+    "processed_file": "data/processed/circles_1000_standardized.csv"
+  },
+  {
+    "name": "noisy_1000",
+    "type": "synthetic",
+    "n_samples": 1000,
+    "n_features": 2,
+    "n_clusters": 4,
+    "raw_file": "data/raw/noisy_1000.csv",
+    "processed_file": "data/processed/noisy_1000_standardized.csv"
+  },
+  {
+    "name": "high_dim_50d_5000",
+    "type": "synthetic",
+    "n_samples": 5000,
+    "n_features": 50,
+    "n_clusters": 5,
+    "raw_file": "data/raw/high_dim_50d_5000.csv",
+    "processed_file": "data/processed/high_dim_50d_5000_standardized.csv"
+  },
+  {
+    "name": "blobs_500",
+    "type": "synthetic",
+    "n_samples": 500,
+    "n_features": 10,
+    "n_clusters": 5,
+    "raw_file": "data/raw/blobs_500.csv",
+    "processed_file": "data/processed/blobs_500_standardized.csv"
+  },
+  {
+    "name": "blobs_5000",
+    "type": "synthetic",
+    "n_samples": 5000,
+    "n_features": 10,
+    "n_clusters": 5,
+    "raw_file": "data/raw/blobs_5000.csv",
+    "processed_file": "data/processed/blobs_5000_standardized.csv"
+  },
+  {
+    "name": "blobs_10000",
+    "type": "synthetic",
+    "n_samples": 10000,
+    "n_features": 10,
+    "n_clusters": 5,
+    "raw_file": "data/raw/blobs_10000.csv",
+    "processed_file": "data/processed/blobs_10000_standardized.csv"
+  },
+  {
+    "name": "blobs_50000",
+    "type": "synthetic",
+    "n_samples": 50000,
+    "n_features": 10,
+    "n_clusters": 5,
+    "raw_file": "data/raw/blobs_50000.csv",
+    "processed_file": "data/processed/blobs_50000_standardized.csv"
+  }
+]
